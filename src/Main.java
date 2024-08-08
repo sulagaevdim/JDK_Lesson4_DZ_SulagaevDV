@@ -40,8 +40,5 @@ public class Main {
 
         //поиск сотрудника по табельному номеру
         System.out.println(directory.workerByTabelNumber(1));
-
-
-
     }
 }
